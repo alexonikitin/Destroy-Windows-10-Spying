@@ -1,5 +1,3 @@
-## [Latest Release](http://renessans.bz/)
-
 # Destroy Windows 10 Spying
 
 ### Features
